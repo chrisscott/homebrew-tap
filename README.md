@@ -1,2 +1,5 @@
 # homebrew-tap
-Tap for home-brew
+My Tap for homebrew
+
+## Formula:
+* [slack-cli](https://github.com/chrisscott/slack-cli)
